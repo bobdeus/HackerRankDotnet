@@ -2,7 +2,7 @@ using HackerRankStuff.Code;
 
 namespace HackerRankStuffTests;
 
-public class Tests
+public class CrazyHardSortCountProblemTests
 {
     [Test]
     public void Test1()
